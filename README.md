@@ -27,11 +27,11 @@ This project was developed as part of the SkillCraft Technology Internship Progr
 ⚡ Real-time time tracking with milliseconds
 
 🛠️ Technologies Used
-HTML5 – Structure of the application
+. HTML5 – Structure of the application
 
-CSS3 – Styling and responsive design
+. CSS3 – Styling and responsive design
 
-JavaScript (ES6) – Stopwatch functionality and lap management
+. JavaScript (ES6) – Stopwatch functionality and lap management
 
 📂 Project Structure
 SCT_WD_2/
@@ -40,10 +40,11 @@ SCT_WD_2/
 ├── style.css       # Styling file
 ├── script.js       # Stopwatch functionality
 └── README.md       # Project documentation
+
 🚀 How to Run the Project
 Download or clone the repository:
 
-git clone https://github.com/your-username/SCT_WD_2.git
+git clone https://github.com/your-alokraj32115/SCT_WD_2.git
 Open the project folder.
 
 Run the index.html file in your web browser.
@@ -79,7 +80,12 @@ Alok Raj
 
 SkillCraft Technology Internship
 Task 02 – Stopwatch Web Application (SCT_WD_2)
-
+Email: alokraj32115@gmail.com
+GitHub:
+http://github.com/alokraj32115-commits/SCT_WD_2
+Live project:http://github.com/alokraj32115-commits/SCT_WD_2/
+Linkedln:www.linkedin.com/in/
+alok-raj-7bb755408
 📄 License
 This project is created for educational and internship purposes under the SkillCraft Technology Internship Program.
 
