@@ -28,8 +28,6 @@ This project was developed as part of the SkillCraft Technology Internship Progr
 . JavaScript (ES6) – Stopwatch functionality and lap management
 
 # 📂 Project Structure
-SCT_WD_2/
-│
 ├── index.html      # Main HTML file
 ├── style.css       # Styling file
 ├── script.js       # Stopwatch functionality
