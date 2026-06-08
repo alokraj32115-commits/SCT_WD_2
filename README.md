@@ -33,7 +33,7 @@ This project was developed as part of the SkillCraft Technology Internship Progr
 ├── script.js       # Stopwatch functionality
 └── README.md       # Project documentation
 
-#🚀 How to Run the Project
+# 🚀 How to Run the Project
 Download or clone the repository:
 
 git clone https://github.com/your-alokraj32115/SCT_WD_2.git
@@ -41,7 +41,7 @@ Open the project folder.
 
 Run the index.html file in your web browser.
 
-#🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 Understanding JavaScript timers (setInterval and clearInterval)
 
 DOM Manipulation
@@ -65,7 +65,7 @@ Task 02 – Stopwatch Web Application (SCT_WD_2)
 Email: alokraj32115@gmail.com
 GitHub:
 http://github.com/alokraj32115-commits/SCT_WD_2
-Live project: 
+Live project:https://alokraj32115-commits.github.io/SCT_WD_2/
 Linkedln:www.linkedin.com/in/alok-raj-7bb755408
 
 
