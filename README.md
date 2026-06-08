@@ -67,11 +67,11 @@ Task 02 – Stopwatch Web Application (SCT_WD_2)
 Email: alokraj32115@gmail.com
 GitHub:
 http://github.com/alokraj32115-commits/SCT_WD_2
-Live project:http://github.com/alokraj32115-commits/SCT_WD_2.git
+Live project: https://alokraj32115-commits.github.io/SCT_WD_2/
 Linkedln:www.linkedin.com/in/alok-raj-7bb755408
-Vanity URL name
 
-alok-raj-7bb755408
+
+
 
 
 
